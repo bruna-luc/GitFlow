@@ -1,6 +1,5 @@
 # GitFlow
 
-## Estudar o GitFlow
 
 ## O que é o GitFlow
 
